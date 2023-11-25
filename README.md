@@ -4,4 +4,6 @@ In some cases you might want to modify a list of email-addresses by systematical
 
 If for example the child has the email-address matze.mueller@lernsax.de then the parents might be reachable at matze.mueller.e1@lernsax.de and matze.mueller.e2@lernsax.de. Having a list of normal child email-addresses enables you to generate a list of parent email addresses from it, with the literal e1 and e2 at the right place.
 
+In order to keep the original address, you can set the third option to True. This will keep the original email address in the list as well.
+
 For usage, just adapt the filename path.
